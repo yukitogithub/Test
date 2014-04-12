@@ -5,5 +5,7 @@
 		<p>Probando</p>
 		<p>Nuevo Parrafo</p>
 	</body>
-	<footeer></footer>
+	<footeer>
+		<p>lujanfernando@gmail.com</p>
+	</footer>
 </html>
