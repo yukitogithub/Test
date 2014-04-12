@@ -2,7 +2,7 @@
 	<head></head>
 	<body>
 		<h1>Hola Mundo</h1>
-		<p>Probando</p>
+		<p>Editando en el master!</p>
 		<p>Nuevo Parrafo</p>
 	</body>
 	<footeer>
