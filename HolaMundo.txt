@@ -3,7 +3,6 @@
 	<body>
 		<h1>Hola Mundo</h1>
 		<p>Editando el primer párrafo</p>
-		<p>Nuevo Parrafo</p>
 		<p>Párrafo hecho en Nueva Rama</p>
 	</body>
 	<footeer>
